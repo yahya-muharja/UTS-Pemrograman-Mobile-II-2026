@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS Pemrograman Mobile II</string>
+    <string name="menu_products">Products</string>
+    <string name="menu_profile">Profil Developer</string>
+    <string name="title_product_detail">Detail Produk</string>
+    <string name="title_all_reviews">Semua Review Produk</string>
+    <string name="info_product_count">Menampilkan %1$d data produk</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="label_tags">Tags</string>
+    <string name="label_dimensions">Dimensi Produk</string>
+    <string name="label_reviews">Review</string>
+    <string name="label_biodata">Biodata Developer</string>
+    <string name="label_developer">Developed by</string>
+    <string name="format_price">Harga: $%1$.2f</string>
+    <string name="format_stock">Stok: %1$d</string>
+    <string name="format_rating">Rating: %1$.2f / 5</string>
+    <string name="format_product_id">ID Produk: %1$d</string>
+    <string name="format_dimensions">Width: %1$.2f x Height: %2$.2f x Depth: %3$.2f (cm)</string>
+    <string name="format_review_rating">Rating review: %1$d / 5</string>
+    <string name="format_reviewer">%1$s - %2$s</string>
+    <string name="format_nim">NIM: %1$s</string>
+    <string name="action_see_all_reviews">Lihat Semua Review (%1$d)</string>
+    <string name="action_back_to_list">Kembali ke Daftar Produk</string>
+    <string name="action_close">Tutup</string>
+    <string name="cd_product_image">Gambar produk</string>
+    <string name="cd_profile_photo">Foto profil developer</string>
+    <string name="cd_university_logo">Logo perguruan tinggi</string>
+</resources>
